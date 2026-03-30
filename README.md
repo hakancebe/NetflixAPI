@@ -36,15 +36,17 @@ This project follows a layered architecture and focuses on building scalable and
 ---
 
 ## 📁 Project Structure
-
 src
 └── main
-├── controller
-├── service
-├── repository
-├── dto
-├── model
+├── java/.../netflixapi
+│ ├── controller
+│ ├── service
+│ ├── repository
+│ ├── dto
+│ ├── model
+│ └── NetflixApiApplication.java
 └── resources
+└── application.properties
 
 ---
 
